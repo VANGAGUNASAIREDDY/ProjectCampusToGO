@@ -1,2 +1,1 @@
-# ProjectCampusToGO
-git remote add origin https://github.com/VANGAGUNASAIREDDY/ProjectCampusGo.git git branch -M main git push -u origin main
+CampusGo is a campus transportation app designed to make commuting around college campuses faster and more convenient. Similar to Rapido, it allows students and staff to book rides with ease, offering a seamless experience for short trips within the campus. With features like real-time ride tracking, fare calculation, and easy ride booking, CampusGo is the perfect solution for hassle-free campus transportation.
